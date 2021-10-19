@@ -1,0 +1,26 @@
+<annotation>
+  <folder>labels</folder>
+  <filename>10</filename>
+  <path>C:\Users\vinay\OneDrive\Desktop\Research Project\labels\labels\10.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>2048</width>
+    <height>2048</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>guitar</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>18</xmin>
+      <ymin>601</ymin>
+      <xmax>2048</xmax>
+      <ymax>1437</ymax>
+    </bndbox>
+  </object>
+</annotation>
