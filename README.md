@@ -11,3 +11,9 @@
  Now train the model with help of colab.
  
  ##still I am working on it, I have trained the model and hopefuly I will get the results as soon as possible!!!!
+
+
+I watched the youtube video(https://youtu.be/hTCmL3S4Obw) for my guidance!
+
+
+It wasnt easy for me to do this, had to face a tough time resolving the errors which were with respected to system!!!
