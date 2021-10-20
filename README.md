@@ -1,4 +1,5 @@
 # Custom_Object_detection
+#Sitll I have to work a lot on it!!
 
  I downloaded the images of guitar from google, then I installed the application labelimg through which I gave lables (class)to my image.
  
